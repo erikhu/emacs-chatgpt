@@ -18,3 +18,5 @@ if you are using spacemacs:
 (defun dotspacemacs/user-config ()
   (setq chatgpt-api-key "API-KEY"))
 ```
+
+the to run it you just need to press `M-x chatgpt`
